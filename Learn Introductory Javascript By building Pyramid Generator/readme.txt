@@ -17,3 +17,4 @@ datatype ="7 primitive datatype"
 
 9.The .unshift() method of an array allows you to add a value to the beginning of the array,(gives the length), unlike .push() which adds the value at the end of the array.
 
+10. This will remove the first element of the array, unlike .pop() which removes the last element.
