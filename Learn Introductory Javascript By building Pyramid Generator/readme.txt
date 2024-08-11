@@ -12,3 +12,8 @@ datatype ="7 primitive datatype"
 6./* and */ multiline comment
 
 7. // singlr line comment
+
+8. i +=1 , i++ , i=i+1 all are same;
+
+9.The .unshift() method of an array allows you to add a value to the beginning of the array,(gives the length), unlike .push() which adds the value at the end of the array.
+
