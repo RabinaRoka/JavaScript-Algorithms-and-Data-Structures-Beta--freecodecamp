@@ -8,3 +8,7 @@ datatype ="7 primitive datatype"
 4. Local variable ="inside the function"
 
 5. Global Variable ="Outside the function"
+
+6./* and */ multiline comment
+
+7. // singlr line comment
