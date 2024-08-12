@@ -18,3 +18,8 @@ datatype ="7 primitive datatype"
 9.The .unshift() method of an array allows you to add a value to the beginning of the array,(gives the length), unlike .push() which adds the value at the end of the array.
 
 10. This will remove the first element of the array, unlike .pop() which removes the last element.
+
+
+11. F12 or Ctrl+Shift+I. On Mac, you can press Option + ⌘ + C
+
+12. One method for finding specific elements in your HTML is using the querySelector() method.
