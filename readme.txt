@@ -13,7 +13,7 @@ datatype ="7 primitive datatype"
 
 7. // singlr line comment
 
-8. i +=1 , i++ , i=i+1 all are same;
+8. i +=1 , i++ , i=i+1 all are same;  #compound assignment
 
 9.The .unshift() method of an array allows you to add a value to the beginning of the array,(gives the length), unlike .push() which adds the value at the end of the array.
 
@@ -23,3 +23,14 @@ datatype ="7 primitive datatype"
 11. F12 or Ctrl+Shift+I. On Mac, you can press Option + ⌘ + C
 
 12. One method for finding specific elements in your HTML is using the querySelector() method.
+
+
+13. we can access data through properties in object while we can access and modify data using indexes in arrays.
+
+14. Two ways to get the properties : using . and using []
+
+15. Const variable = array
+{ -->properties
+    key : value
+    if two value of key name then put inside ""
+}

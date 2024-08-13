@@ -1,3 +1,10 @@
+// const cat = {
+//     name: "Whiskers",
+//     "Number of legs": 4,
+//   }
+//   console.log(cat["Number of legs"]);
+
+
 let xp = 0;
 let health = 100;
 let gold = 50;
