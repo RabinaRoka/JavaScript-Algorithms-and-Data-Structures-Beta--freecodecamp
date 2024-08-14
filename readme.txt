@@ -34,3 +34,11 @@ datatype ="7 primitive datatype"
     key : value
     if two value of key name then put inside ""
 }
+
+16. Math.random(), which generates a random number from 0 (inclusive) to 1 (exclusive)
+
+17. Math.floor(), which rounds a given number down to the nearest integer.
+
+18. The ternary operator is a conditional operator and can be used as a one-line if-else statement. The syntax is: condition ? expressionIfTrue : expressionIfFalse.
+
+19. The .includes() method determines if an array contains an element and will return either true or false.
