@@ -1,0 +1,1 @@
+The e in a number input can also be an uppercase E. Regex has a flag for this, however – the i flag, which stands for "insensitive".
