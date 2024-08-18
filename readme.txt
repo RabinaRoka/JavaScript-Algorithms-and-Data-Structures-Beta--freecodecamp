@@ -42,3 +42,11 @@ datatype ="7 primitive datatype"
 18. The ternary operator is a conditional operator and can be used as a one-line if-else statement. The syntax is: condition ? expressionIfTrue : expressionIfFalse.
 
 19. The .includes() method determines if an array contains an element and will return either true or false.
+
+20. A for...of loop is used to iterate over elements in an iterable object like an array. The variable declared in the loop represents the current element being iterated over.
+
+21. The message to display is passed as the argument to the alert() function.
+
+22.The Number constructor is a function that converts a value to a number. If the value cannot be converted, it returns NaN which stands for "Not a Number".
+
+23.You need to construct the HTML string that will be displayed in the output element.
