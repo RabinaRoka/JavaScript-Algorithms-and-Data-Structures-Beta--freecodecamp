@@ -50,3 +50,7 @@ datatype ="7 primitive datatype"
 22.The Number constructor is a function that converts a value to a number. If the value cannot be converted, it returns NaN which stands for "Not a Number".
 
 23.You need to construct the HTML string that will be displayed in the output element.
+
+24. toLowerCase()
+
+25.Math.abs() is a built-in JavaScript method that will return the absolute value of a number.
