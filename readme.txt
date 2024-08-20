@@ -54,3 +54,7 @@ datatype ="7 primitive datatype"
 24. toLowerCase()
 
 25.Math.abs() is a built-in JavaScript method that will return the absolute value of a number.
+
+26.interpolation  ${}
+
+27.Remember that document.querySelectorAll returns a NodeList, which is array-like but is not an array. 
