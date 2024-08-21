@@ -15,3 +15,4 @@ playlistSongElements.forEach((songEl) => {
 
 textContent sets the text of a node and allows you to set or retrieve the text content of an HTML element.
 
+spread = [...name]
