@@ -1,0 +1,1 @@
+.reduce() method takes an array and applies a callback function to condense the array into a single value.
