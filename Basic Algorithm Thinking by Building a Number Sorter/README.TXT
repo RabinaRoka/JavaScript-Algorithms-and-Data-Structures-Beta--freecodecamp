@@ -4,3 +4,5 @@
 
 
 #The last sorting algorithm you will implement is the insertion sort. This algorithm works by building up a sorted array at the beginning of the list. It begins the sorted array with the first element. Then it inspects the next element and swaps it backward into the sorted array until it is in a sorted position, and so on.
+
+#To sort the elements of an array, you can use the built-in method called .sort().
