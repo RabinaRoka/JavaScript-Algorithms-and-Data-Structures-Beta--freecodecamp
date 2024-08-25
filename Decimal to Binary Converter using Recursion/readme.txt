@@ -14,3 +14,7 @@ What is the least amount of work you need to do to get closer to the base case?
 
 
 all remaining
+
+#for animations
+The setTimeout function takes two arguments: a callback function and a number representing the time in milliseconds to wait before executing the callback function.
+
