@@ -1,0 +1,25 @@
+
+/* Add some basic styling */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+#user-input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#check-btn, #clear-btn {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+#results-div {
+    margin-top: 20px;
+    font-weight: bold;
+}
