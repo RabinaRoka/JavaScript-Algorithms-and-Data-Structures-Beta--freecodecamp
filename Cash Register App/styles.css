@@ -153,3 +153,10 @@
     height: 20px;
     background-color: black;
   }
+  .circle {
+    margin: 15px auto;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+  }
